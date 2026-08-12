@@ -1,0 +1,21 @@
+Origin: @thuanazura
+Label: @thuanazura Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: PixelCore and VivoFlip tweaks for jailbroken iOS 7-9
+Date: Wed, 12 Aug 2026 15:03:34 GMT
+MD5Sum:
+ 1a4ef85c4e70bb1b761afd0ee69aa489             1126 Packages
+ 3e8e184b2b96d60e87e057c7e9e9fc64              599 Packages.gz
+ 65b49713b1337ba787ccaa56c0731e47              688 Packages.bz2
+SHA1:
+ f2f72233c9fddad69e646a5f2a71846232ca30c8             1126 Packages
+ 07bed86be388e123879196cc9c651bf6b83e03e7              599 Packages.gz
+ 7fb61200ae2138f5a3b4d054da79a7557b97a602              688 Packages.bz2
+SHA256:
+ e2e932d0dcf22bbc4bc409bd2b0300e2f52822a07b3c8d0005fc6f0ccd56bb84             1126 Packages
+ 3c7d311240d4d423560eae30860a006b556e788963ddc07734a42f7bfb73b17a              599 Packages.gz
+ 66c3ceeaa5933ce71f6a19de229ea1d1982089eb0d720cacef835194979f8dfe              688 Packages.bz2
