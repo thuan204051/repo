@@ -10,7 +10,7 @@ https://thuan204051.github.io/repo/
 
 ## Packages
 
-- PixelCore 1.3.4
+- PixelCore 1.4.3
 - VivoFlip 1.1.6
 
 ## Publish on GitHub

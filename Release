@@ -6,16 +6,16 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: PixelCore and VivoFlip tweaks for jailbroken iOS 7-9
-Date: Wed, 12 Aug 2026 15:03:34 GMT
+Date: Mon, 24 Aug 2026 11:12:19 GMT
 MD5Sum:
- 1a4ef85c4e70bb1b761afd0ee69aa489             1126 Packages
- 3e8e184b2b96d60e87e057c7e9e9fc64              599 Packages.gz
- 65b49713b1337ba787ccaa56c0731e47              688 Packages.bz2
+ 51fe0f567513129398b77cf4283fe453             1126 Packages
+ 6f2e43c1924ef73e39330bdaff8e8e32              598 Packages.gz
+ 00ccd659453d7b761f686bfe81df45bf              677 Packages.bz2
 SHA1:
- f2f72233c9fddad69e646a5f2a71846232ca30c8             1126 Packages
- 07bed86be388e123879196cc9c651bf6b83e03e7              599 Packages.gz
- 7fb61200ae2138f5a3b4d054da79a7557b97a602              688 Packages.bz2
+ 4c26e326a5fa77fef563357bee98d06f8f7b11b5             1126 Packages
+ 60b23f30e10fd166ea3e2550c897e8e0b5e247bd              598 Packages.gz
+ df2105826b86d3ad3368e365502f00a778e86d8c              677 Packages.bz2
 SHA256:
- e2e932d0dcf22bbc4bc409bd2b0300e2f52822a07b3c8d0005fc6f0ccd56bb84             1126 Packages
- 3c7d311240d4d423560eae30860a006b556e788963ddc07734a42f7bfb73b17a              599 Packages.gz
- 66c3ceeaa5933ce71f6a19de229ea1d1982089eb0d720cacef835194979f8dfe              688 Packages.bz2
+ dd5d656cf28aee66defdaf22cbd8795ba8516f364fddd955625cbd9028145be5             1126 Packages
+ f89789ed5f448e43502e1e2cbbc2c85dec5f1342dbb68ed85b0b5518614fe03b              598 Packages.gz
+ 962a60194aff464cd46794f2b9f8cb9d187070a4e76416b46709cb01525ae967              677 Packages.bz2
