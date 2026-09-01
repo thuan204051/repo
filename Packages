@@ -9,10 +9,10 @@ Architecture: iphoneos-arm
 Version: 1.4.3
 Installed-Size: 2640
 Filename: debs/com.arena.pixelcore_1.4.3_iphoneos-arm.deb
-Size: 762534
-MD5sum: fe8f9645c2f1db3a1685457e21d56927
-SHA1: 676f4f8ee6cfea33896e95d507560b6a18d596b3
-SHA256: 2e143bacfd4f29ae8d327e88176980721677e76937e47b22887703cde0d26709
+Size: 762996
+MD5sum: e2f1719d469549ee4b3becd81509fe76
+SHA1: dd72755812816175e9e9c05f1fd3b7a1664cd6ef
+SHA256: 7591b63bcefabf379b19dc1496a87f288cd8ce33134e11a822a5e8fb6e11487d
 
 Package: com.arena.vivoflip
 Name: VivoFlip
@@ -25,7 +25,7 @@ Architecture: iphoneos-arm
 Version: 1.1.6
 Installed-Size: 320
 Filename: debs/com.arena.vivoflip_1.1.6_iphoneos-arm.deb
-Size: 30106
-MD5sum: bd26eb2273acced650268e88160be6be
-SHA1: 073651c89b923e6f015ab2b8a657ec9ca56e2b21
-SHA256: 372760132c9b67ad09593ecb696237a5c20c678364edaafef125fbce9ea49b0f
+Size: 30240
+MD5sum: 9ca22931ec9fa81680607a8a4f207fe6
+SHA1: bec100b84498f36cd8304664ab7bbb011dc34e29
+SHA256: 509eab25922a6a10eee2322385abac440c3b11adc4c7e1226714b30a3697ad9d
